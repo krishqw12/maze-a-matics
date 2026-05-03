@@ -1,0 +1,26 @@
+# Executable
+maze-a-matics
+flat_logic
+
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Personal data
+assets/flatlogic_maxscore.dat
+
+# Object files
+*.o
+*.so
+*.a
+
+# Raylib install (if local)
+raylib-install/
